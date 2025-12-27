@@ -112,9 +112,9 @@ _Oyun içi görüntüler eklenecek_
 
 ## Gelecek Geliştirmeler
 
-- [ ] Ses efektleri ekleme
-- [ ] Farklı seviyeler
-- [ ] Power-up'lar
-- [ ] Online skor tablosu
-- [ ] Çoklu oyuncu modu
+- Ses efektleri ekleme
+- Farklı seviyeler
+- Power-up'lar
+- Online skor tablosu
+- Çoklu oyuncu modu
 
